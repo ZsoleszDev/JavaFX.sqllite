@@ -1,2 +1,2 @@
-Adatbáziskezelő rendszer Java 17-ben MySql szerver mellett.
+Adatbáziskezelő rendszer Java 17-ben SQL Lite adatbázis rendszerben.
 by: Zsolesz
